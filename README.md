@@ -12,7 +12,7 @@ This project analyzes NOAA temperature data to identify and visualize record hig
   - `binsize.csv` - CSV file containing weather station locations.
   
 - `NOAA-Data-Analysis.ipynb` - Jupyter notebook with code and explanations for temperature data analysis.
-- `ann_arbor_stations_map.html` - HTML file with a Folium map visualizing weather stations near Ann Arbor.
+- `weather_stations_ann_arbor.html` - HTML file with a Folium map visualizing weather stations near Ann Arbor.
   
 ## Requirements
 Python
