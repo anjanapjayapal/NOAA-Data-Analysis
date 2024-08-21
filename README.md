@@ -8,8 +8,8 @@ This project analyzes NOAA temperature data to identify and visualize record hig
 
   ## FILES
 - `datasets/` 
-  - `temperature.csv` - CSV file containing temperature records.
-  - `binsize.csv` - CSV file containing weather station locations.
+  - `temperature(1).csv` - CSV file containing temperature records.
+  - `Binsize(1).csv` - CSV file containing weather station locations.
   
 - `NOAA-Data-Analysis.ipynb` - Jupyter notebook with code and explanations for temperature data analysis.
 - `weather_stations_ann_arbor.html` - HTML file with a Folium map visualizing weather stations near Ann Arbor.
